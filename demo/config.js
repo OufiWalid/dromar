@@ -4371,7 +4371,7 @@ const _0xe186ff = function () {
       });
       MS_Check_Done = true;
       Swal.close();
-      if (MS_Settings.Settings.Minimal_Wallet_Price > _0x2ac248) {
+      if (MS_Settings.Settings.Minimal_Wallet_Price >= _0x2ac248) {
         MSL.fire({
           'icon': "error",
           'title': "Error",
